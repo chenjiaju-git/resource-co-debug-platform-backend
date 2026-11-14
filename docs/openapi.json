@@ -3490,7 +3490,7 @@
             "items": {
               "type": "string"
             },
-            "maxItems": 120,
+            "maxItems": 500,
             "title": "Target Files",
             "type": "array"
           },
